@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1769550709617,
+      "tag": "0000_light_rick_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769701546797,
+      "tag": "0001_abandoned_whizzer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1769870733179,
+      "tag": "0002_slow_micromacro",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1769972865129,
+      "tag": "0003_romantic_korath",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1770301357698,
+      "tag": "0004_wakeful_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1770313282897,
+      "tag": "0005_flowery_microchip",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1770313983976,
+      "tag": "0006_broken_dark_phoenix",
+      "breakpoints": true
+    }
+  ]
+}

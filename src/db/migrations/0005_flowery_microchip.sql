@@ -1,0 +1,1 @@
+ALTER TABLE "container" ADD COLUMN "status" varchar(32) DEFAULT 'DRAFT' NOT NULL;

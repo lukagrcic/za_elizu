@@ -1,0 +1,1 @@
+ALTER TABLE "product_category" ALTER COLUMN "name" SET DATA TYPE varchar(180);
